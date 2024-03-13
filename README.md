@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0Lakshmanan
+- 👋 Hi, I’m @Lakshmanan
 - 👀 I’m interested in Cloud Computing  
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Cloud Computing
